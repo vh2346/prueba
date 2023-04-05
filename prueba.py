@@ -9,3 +9,5 @@ for i in x:
 
 plt.plot(y)
 plt.show()
+
+dddd
